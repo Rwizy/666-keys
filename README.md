@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⌨️ 666 KEYS PRO
+# 666 KEYS PRO
 ### *Next-Gen Luxury Mechanical Keyboard & Mouse Audio Simulator*
 
 [![Release](https://img.shields.io/github/v/release/Rwizy/666-keys?color=E11D48&style=for-the-badge&logo=github&label=RELEASE)](https://github.com/Rwizy/666-keys/releases/latest)
