@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⌨️ 666 KEYS PRO
+# 666 KEYS PRO
 ### *Next-Gen Luxury Mechanical Keyboard & Mouse Audio Simulator*
 
 [![Release](https://img.shields.io/github/v/release/Rwizy/666-keys?color=E11D48&style=for-the-badge&logo=github&label=RELEASE)](https://github.com/Rwizy/666-keys/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%2F%2011-0284C7?style=for-the-badge&logo=windows)](https://github.com/Rwizy/666-keys)
+[![Developer](https://img.shields.io/badge/SOLE%20DEVELOPER-RWIZY-F59E0B?style=for-the-badge&logo=github)](https://github.com/Rwizy)
 [![Latency](https://img.shields.io/badge/LATENCY-5ms%20ULTRA%20LOW-10B981?style=for-the-badge&logo=speedtest)](https://github.com/Rwizy/666-keys)
-[![Engine](https://img.shields.io/badge/AUDIO%20ENGINE-MINIAUDIO%20MIXER-8B5CF6?style=for-the-badge)](https://github.com/Rwizy/666-keys)
-[![Auto Update](https://img.shields.io/badge/CLOUD-AUTO%20UPDATER-F59E0B?style=for-the-badge&logo=cloud)](https://github.com/Rwizy/666-keys)
+[![Auto Update](https://img.shields.io/badge/CLOUD-AUTO%20UPDATER-8B5CF6?style=for-the-badge&logo=cloud)](https://github.com/Rwizy/666-keys)
 
 <br/>
 
@@ -104,26 +104,18 @@ Yukarıdaki mavi **[Hemen İndir](https://github.com/Rwizy/666-keys/releases/lat
 > Arayüzdeki **Mute (Sessiz)** butonuna tıklayabilir veya sağ alttaki 666 simgesine sağ tıklayıp sesi açıp kapatabilirsiniz.
 
 #### 🛡️ Program güvenli mi? Tuşlarımı kaydeder mi (Keylogger)?
-> **Kesinlikle hayır.** 666 Keys tamamen açık kaynaklıdır ve yerel (local) çalışır. Tuş basımlarınız asla diske kaydedilmez veya internete gönderilmez; yalnızca ses çalma motorunu tetiklemek için donanımsal sinyal olarak kullanılır.
+> **Kesinlikle hayır.** 666 Keys tamamen güvenli ve yerel (local) çalışır. Tuş basımlarınız asla diske kaydedilmez veya internete gönderilmez; yalnızca ses motorunu tetiklemek için donanımsal sinyal olarak kullanılır.
 
 #### ⚡ Bilgisayarımda kasma veya FPS düşüşü yapar mı?
-> Asla. Miniaudio C kütüphanesi üzerine inşa edildiği için işlemcinizin (CPU) %0.1'ini bile kullanmaz. Yaklaşık 40-50 MB RAM ile arka planda varlığını unutturur.
+> Asla. Miniaudio C kütüphanesi üzerine optimize edildiği için işlemcinizin (CPU) %0.1'ini bile kullanmaz. Yaklaşık 40-50 MB RAM ile arka planda oyun performansınızı asla etkilemez.
 
 ---
 
 <br/>
 
-## 💻 Geliştiriciler İçin (Kaynak Koddan Çalıştırma)
+<div align="center">
 
-Projeyi Python ortamında geliştirmek veya düzenlemek isterseniz:
+### 👑 Sole Developer & Creator: [Rwizy](https://github.com/Rwizy)
+*666 Keys Pro © 2026. Tüm hakları Rwizy'ye aittir.*
 
-```bash
-# 1. Repoyu klonlayın
-git clone https://github.com/Rwizy/666-keys.git
-cd 666-keys
-
-# 2. Gerekli kütüphaneleri yükleyin
-pip install PySide6 miniaudio pynput
-
-# 3. Uygulamayı başlatın
-python main.py
+</div>
