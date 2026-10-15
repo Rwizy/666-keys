@@ -1,23 +1,25 @@
 <div align="center">
 
-# 666 KEYS PRO
+# ⌨️ 666 KEYS PRO
 ### *Next-Gen Luxury Mechanical Keyboard & Mouse Audio Simulator*
 
 [![Release](https://img.shields.io/github/v/release/Rwizy/666-keys?color=E11D48&style=for-the-badge&logo=github&label=RELEASE)](https://github.com/Rwizy/666-keys/releases/latest)
-[![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS-0284C7?style=for-the-badge&logo=windows)](https://github.com/Rwizy/666-keys)
+[![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%2F%2011-0284C7?style=for-the-badge&logo=windows)](https://github.com/Rwizy/666-keys)
 [![Latency](https://img.shields.io/badge/LATENCY-5ms%20ULTRA%20LOW-10B981?style=for-the-badge&logo=speedtest)](https://github.com/Rwizy/666-keys)
-[![Architecture](https://img.shields.io/badge/ENGINE-MINIAUDIO%20MIXER-8B5CF6?style=for-the-badge)](https://github.com/Rwizy/666-keys)
+[![Engine](https://img.shields.io/badge/AUDIO%20ENGINE-MINIAUDIO%20MIXER-8B5CF6?style=for-the-badge)](https://github.com/Rwizy/666-keys)
+[![Auto Update](https://img.shields.io/badge/CLOUD-AUTO%20UPDATER-F59E0B?style=for-the-badge&logo=cloud)](https://github.com/Rwizy/666-keys)
 
 <br/>
 
 <p align="center">
-  <b>Sıradan klavyeler bitti.</b> 666 Keys; her tuş vuruşunu stüdyo kalitesinde mekanik switch seslerine dönüştüren, sıfır gecikmeli yeni nesil ses simülatörüdür.
+  <b>Sıradan ve sessiz klavyelere son!</b><br/>
+  <b>666 Keys</b>, bastığınız her tuşu ve mouse tıkını stüdyo ortamında kaydedilmiş gerçek mekanik switch seslerine dönüştüren, sıfır gecikmeli yeni nesil bir ses simülatörüdür.
 </p>
 
 ---
 
-### 🚀 [ Hemen İndir (v1.0.0 Son Sürüm) ](https://github.com/Rwizy/666-keys/releases/latest/download/666.Keys.exe)
-*Kurulum gerektirmez. İndir ve direkt çalıştır!*
+### 🚀 [ 📥 Hemen İndir (v1.0.0 Son Sürüm) ](https://github.com/Rwizy/666-keys/releases/latest/download/666.Keys.exe)
+> **Kurulum, setup veya ayar gerektirmez!** İndirin, çift tıklayın ve anında kullanmaya başlayın.
 
 ---
 
@@ -25,30 +27,103 @@
 
 <br/>
 
-## ✨ Öne Çıkan Özellikler
+## 🌟 Neden 666 Keys?
 
-| Özellik | Açıklama |
-| :--- | :--- |
-| ⚡ **5ms Ultra Düşük Gecikme** | `Miniaudio` donanım mikseri ve Windows Low-Level Hook mimarisi ile sıfır gecikme hissi. |
-| 🎙️ **Premium Switch Koleksiyonu** | Cherry MX Blue (v1/v2/v3), Cream Reverb, Holy Panda, Daktilo ve özel akrilik ses profilleri. |
-| 🖱️ **Dinamik Mousepack Desteği** | Corsair, Logitech ve özel optik mouse klik sesleri. |
-| 🎨 **Lüks & Akıcı Arayüz** | Çerçevesiz modern koyu tema, interaktif tuş aydınlatmaları ve canlı Aurora arka planı. |
-| 📊 **Canlı CPS & Tuş Sayacı** | Anlık Clicks-Per-Second ve toplam basım istatistikleri. |
-| 🔄 **Sessiz Bulut Güncelleyici** | Yeni güncellemeleri arka planda kontrol eder, tek tıkla kendini yeniler. |
-| 🪶 **Sıfır Kaynak Tüketimi** | Sistem tepsisinde (Tray) sessizce çalışır, oyunlarda FPS düşürmez. |
+* Pahalı bir mekanik klavye almanıza gerek kalmadan **Holy Panda**, **Cherry MX**, **Gateron Ink Red** veya **Vintage Daktilo** hissini yaşayın.
+* **Tüm oyunlarda (Valorant, CS2, FiveM, LoL) ve Discord'da** arka planda sorunsuz çalışır.
+* Tuş gecikmesi yapmaz, FPS düşürmez, donanım seviyesinde mikser ile **5 milisaniyede** tepki verir.
 
 <br/>
 
-## 🎧 Mevcut Ses Paketleri
+## ✨ Öne Çıkan Özellikler
 
-```yaml
-Keyboard Packs:
-  - 🔵 Cherry MX Blue (Klasik keskin çıtır ses)
-  - 💎 Cherry MX Blue v2 & v3 (Tok akustik profil)
-  - 🍦 Cream Reverb (Pürüzsüz & derin daktilo tokluğu)
-  - 📜 Vintage Daktilo (Nostaljik ağır mekanik his)
+| Özellik | Detay |
+| :--- | :--- |
+| ⚡ **5ms Ultra-Low Latency** | `Miniaudio` C-donanım mikseri sayesinde sesler kulağınıza tuşa bastığınız an (gecikmesiz) ulaşır. |
+| 🎹 **24+ Mekanik Switch** | Clicky, Linear, Tactile ve Tok akustik profilli devasa ses kütüphanesi. |
+| 🖱️ **Dinamik Mousepack'ler** | Gaming optik switchler, Corsair ve MacBook yumuşak tıklama sesleri. |
+| 🎨 **6 Eşsiz Lüks Tema** | Obsidian, Aurora, Cyberpunk, Crimson, Emerald ve Sunset tasarım seçenekleri. |
+| 📊 **Canlı CPS & Sayaç** | Anlık Clicks-Per-Second (CPS) hızınızı ve toplam bastığınız tuş sayısını takip edin. |
+| 🔄 **Otomatik Bulut Güncelleme** | Yeni ses paketleri ve güncellemeler çıktığında program sizi uyarır ve tek tıkla kendini günceller. |
+| 🪟 **Sistem Tepsisi (Tray) Modu** | Çarpıya bastığınızda kapanmaz, sağ alttaki simgeler arasında sessizce çalışmaya devam eder. |
 
-Mouse Packs:
-  - ⚡ Corsair Tactical Click
-  - 🎯 Logitech Optical Crisp
-  - 🤫 Silent Stealth Touch
+<br/>
+
+## 🎧 Geniş Ses Paketi Koleksiyonu
+
+<details open>
+<summary><b>🔊 24 Adet Klavye Switch Paketi (Genişletmek için tıklayın)</b></summary>
+
+* **Clicky (Belirgin Çıtır Sesler):** `Cherry MX Blue (v1, v2, v3)`, `Kailh Box White`, `Cherry MX White`
+* **Linear (Tok ve Yağlı Pürüzsüz Sesler):** `Gateron Red`, `Gateron Red Reverb`, `Gateron Ink Red`, `Gateron Black`, `Speed MX`
+* **Tactile & Tok Akustik:** `Holy Panda`, `Gateron Brown`, `NovelKeys Cream`, `Cream Reverb`, `Kailh Copper`
+* **Özel & Nostaljik:** `Vintage Daktilo (Onyx 1 & 2)`, `Apple MacBook Pro`, `Deku Özel Switch`, `Hax Pro`, `Sans`
+
+</details>
+
+<details open>
+<summary><b>🖱️ 4 Adet Mouse Ses Paketi</b></summary>
+
+* `Corsair Tactical Click` - Net, tok ve agresif oyuncu faresi klik sesi.
+* `Diggly Crisp` - Dengeli ve tatmin edici tıklama tonu.
+* `MacBook Trackpad Touch` - Yumuşak, elit ve hafif dokunmatik hissi.
+* `Pop Soft Click` - Eğlenceli, yumuşak ve tok switch sesi.
+
+</details>
+
+<br/>
+
+## 📖 Adım Adım Kurulum (Hiç Bilmeyenler İçin)
+
+### 1. İndirme
+Yukarıdaki mavi **[Hemen İndir](https://github.com/Rwizy/666-keys/releases/latest/download/666.Keys.exe)** butonuna tıklayarak **`666.Keys.exe`** dosyasını bilgisayarınıza indirin.
+
+### 2. İlk Çalıştırma & Windows Koruması
+* İndirdiğiniz dosyaya çift tıklayın.
+* ⚠️ **Eğer "Windows kişisel bilgisayarınızı korudu (SmartScreen)" uyarısı çıkarsa:**
+  1. Çıkan penceredeki **`Ek bilgi`** yazısına tıklayın.
+  2. Altta beliren **`Yine de çalıştır`** butonuna basın.  
+  *(Bu uyarı, program yeni yayınlandığı ve henüz Microsoft sertifika hafızasında yer almadığı için tamamen standarttır).*
+
+### 3. Kullanım
+* Karşınıza gelen modern menüden dilediğiniz **Switch** ve **Mouse** paketine tıklayın.
+* Sağ taraftan ses düzeyini (Klavye sesi, Mouse sesi veya Ana ses) kendinize göre ayarlayın.
+* İstediğiniz temayı (Örn: *Cyberpunk* veya *Crimson*) seçin.
+* Pencereyi sağ üstteki **X** simgesinden kapatsanız bile program arka planda (sağ altta saatin yanında) çalışmaya devam eder!
+
+---
+
+<br/>
+
+## ❓ Sıkça Sorulan Sorular (SSS)
+
+#### 🎮 Oyun oynarken (Valorant, CS2, FiveM) ses gelir mi?
+> **Evet!** Program Windows'un en alt katmanındaki donanım kancalarını (Low-Level Hook) kullanır. Hangi tam ekran oyunda veya uygulamada olursanız olun klavye sesleri eksiksiz duyulur.
+
+#### 🔇 Sesi anlık olarak nasıl kapatabilirim?
+> Arayüzdeki **Mute (Sessiz)** butonuna tıklayabilir veya sağ alttaki 666 simgesine sağ tıklayıp sesi açıp kapatabilirsiniz.
+
+#### 🛡️ Program güvenli mi? Tuşlarımı kaydeder mi (Keylogger)?
+> **Kesinlikle hayır.** 666 Keys tamamen açık kaynaklıdır ve yerel (local) çalışır. Tuş basımlarınız asla diske kaydedilmez veya internete gönderilmez; yalnızca ses çalma motorunu tetiklemek için donanımsal sinyal olarak kullanılır.
+
+#### ⚡ Bilgisayarımda kasma veya FPS düşüşü yapar mı?
+> Asla. Miniaudio C kütüphanesi üzerine inşa edildiği için işlemcinizin (CPU) %0.1'ini bile kullanmaz. Yaklaşık 40-50 MB RAM ile arka planda varlığını unutturur.
+
+---
+
+<br/>
+
+## 💻 Geliştiriciler İçin (Kaynak Koddan Çalıştırma)
+
+Projeyi Python ortamında geliştirmek veya düzenlemek isterseniz:
+
+```bash
+# 1. Repoyu klonlayın
+git clone https://github.com/Rwizy/666-keys.git
+cd 666-keys
+
+# 2. Gerekli kütüphaneleri yükleyin
+pip install PySide6 miniaudio pynput
+
+# 3. Uygulamayı başlatın
+python main.py
